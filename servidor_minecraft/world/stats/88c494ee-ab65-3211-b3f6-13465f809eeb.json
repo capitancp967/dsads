@@ -1,0 +1,80 @@
+{
+  "stats": {
+    "minecraft:killed_by": {
+      "minecraft:zombie": 2
+    },
+    "minecraft:broken": {
+      "minecraft:wooden_pickaxe": 1
+    },
+    "minecraft:killed": {
+      "minecraft:pig": 1
+    },
+    "minecraft:used": {
+      "minecraft:stone_axe": 1,
+      "minecraft:wooden_axe": 20,
+      "minecraft:crafting_table": 2,
+      "minecraft:spruce_planks": 3,
+      "minecraft:wooden_pickaxe": 59,
+      "minecraft:spruce_sapling": 2,
+      "minecraft:cooked_porkchop": 1,
+      "minecraft:stone_pickaxe": 17,
+      "minecraft:dirt": 1
+    },
+    "minecraft:custom": {
+      "minecraft:interact_with_crafting_table": 2,
+      "minecraft:time_since_rest": 52,
+      "minecraft:walk_one_cm": 17415,
+      "minecraft:leave_game": 1,
+      "minecraft:mob_kills": 1,
+      "minecraft:damage_taken": 810,
+      "minecraft:play_time": 10653,
+      "minecraft:damage_dealt": 342,
+      "minecraft:jump": 222,
+      "minecraft:time_since_death": 0,
+      "minecraft:interact_with_furnace": 4,
+      "minecraft:sprint_one_cm": 30296,
+      "minecraft:fall_one_cm": 13190,
+      "minecraft:total_world_time": 10653,
+      "minecraft:fly_one_cm": 27711,
+      "minecraft:crouch_one_cm": 359,
+      "minecraft:sneak_time": 320,
+      "minecraft:deaths": 3
+    },
+    "minecraft:crafted": {
+      "minecraft:stick": 8,
+      "minecraft:wooden_axe": 1,
+      "minecraft:wooden_pickaxe": 1,
+      "minecraft:stone_axe": 1,
+      "minecraft:cooked_porkchop": 3,
+      "minecraft:spruce_planks": 56,
+      "minecraft:stone_pickaxe": 1,
+      "minecraft:crafting_table": 1
+    },
+    "minecraft:mined": {
+      "minecraft:furnace": 1,
+      "minecraft:spruce_log": 14,
+      "minecraft:crafting_table": 2,
+      "minecraft:coal_ore": 31,
+      "minecraft:grass_block": 1,
+      "minecraft:large_fern": 2,
+      "minecraft:copper_ore": 4,
+      "minecraft:stone": 40
+    },
+    "minecraft:picked_up": {
+      "minecraft:spruce_planks": 42,
+      "minecraft:porkchop": 3,
+      "minecraft:dirt": 1,
+      "minecraft:spruce_sapling": 2,
+      "minecraft:stick": 14,
+      "minecraft:cobblestone": 76,
+      "minecraft:crafting_table": 2,
+      "minecraft:raw_copper": 12,
+      "minecraft:spruce_log": 14,
+      "minecraft:coal": 61,
+      "minecraft:wooden_axe": 1,
+      "minecraft:copper_helmet": 1,
+      "minecraft:furnace": 2
+    }
+  },
+  "DataVersion": 4671
+}

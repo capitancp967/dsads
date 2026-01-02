@@ -1,0 +1,71 @@
+[03:32:21] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, profilesHost=https://api.mojang.com, name=PROD]
+[03:32:21] [ServerMain/INFO]: No existing world data, creating new world
+[03:32:22] [ServerMain/INFO]: Loaded 1470 recipes
+[03:32:22] [ServerMain/INFO]: Loaded 1584 advancements
+[03:32:22] [Server thread/INFO]: Starting minecraft server version 1.21.11
+[03:32:22] [Server thread/INFO]: Loading properties
+[03:32:22] [Server thread/INFO]: Default game type: SURVIVAL
+[03:32:22] [Server thread/INFO]: Generating keypair
+[03:32:22] [Server thread/INFO]: Starting Minecraft server on *:25565
+[03:32:23] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[03:32:23] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[03:32:23] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[03:32:23] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[03:32:23] [Server thread/INFO]: Preparing level "world"
+[03:32:23] [Server thread/INFO]: Selecting global world spawn...
+[03:32:29] [Server thread/INFO]: Loading 0 persistent chunks...
+[03:32:29] [Server thread/INFO]: Preparing spawn area: 100%
+[03:32:29] [Server thread/INFO]: Time elapsed: 6400 ms
+[03:32:29] [Server thread/INFO]: Done (6.784s)! For help, type "help"
+[03:32:37] [Server thread/INFO]: dieviche[/127.26.52.170:33417] logged in with entity id 41 at (-9.5, 111.0, -3.5)
+[03:32:37] [Server thread/INFO]: dieviche joined the game
+[03:32:38] [Server thread/INFO]: skupdiripop[/127.210.112.181:60927] logged in with entity id 47 at (1.5, 111.0, 8.5)
+[03:32:38] [Server thread/INFO]: skupdiripop joined the game
+[03:32:45] [Server thread/WARN]: Mismatch in destroy block pos: is{x=0, y=0, z=0} is{x=-15, y=112, z=-5}
+[03:32:45] [Server thread/WARN]: Mismatch in destroy block pos: is{x=0, y=0, z=0} is{x=-15, y=113, z=-5}
+[03:32:46] [Server thread/WARN]: Mismatch in destroy block pos: is{x=0, y=0, z=0} is{x=-15, y=112, z=-5}
+[03:32:46] [Server thread/WARN]: Mismatch in destroy block pos: is{x=0, y=0, z=0} is{x=-16, y=111, z=-5}
+[03:32:50] [Server thread/WARN]: Mismatch in destroy block pos: is{x=0, y=0, z=0} is{x=-15, y=113, z=-5}
+[03:32:58] [Server thread/WARN]: Mismatch in destroy block pos: is{x=0, y=0, z=0} is{x=-2, y=112, z=9}
+[03:32:58] [Server thread/WARN]: Mismatch in destroy block pos: is{x=0, y=0, z=0} is{x=-2, y=111, z=9}
+[03:32:58] [Server thread/INFO]: skupdiripop lost connection: Disconnected
+[03:32:58] [Server thread/INFO]: skupdiripop left the game
+[03:32:59] [Server thread/WARN]: Mismatch in destroy block pos: is{x=0, y=0, z=0} is{x=-2, y=112, z=9}
+[03:32:59] [Server thread/WARN]: Mismatch in destroy block pos: is{x=0, y=0, z=0} is{x=-2, y=111, z=9}
+[03:33:10] [Server thread/WARN]: Mismatch in destroy block pos: is{x=0, y=0, z=0} is{x=-13, y=113, z=-8}
+[03:33:10] [Server thread/WARN]: Mismatch in destroy block pos: is{x=0, y=0, z=0} is{x=-12, y=114, z=-7}
+[03:33:10] [Server thread/WARN]: Mismatch in destroy block pos: is{x=0, y=0, z=0} is{x=-13, y=113, z=-7}
+[03:33:11] [Server thread/WARN]: Mismatch in destroy block pos: is{x=0, y=0, z=0} is{x=-12, y=114, z=-7}
+[03:33:13] [Server thread/INFO]: Yumalala[/127.107.33.123:41119] logged in with entity id 465 at (10.5, 116.0, -8.5)
+[03:33:13] [Server thread/INFO]: Yumalala joined the game
+[03:33:23] [Server thread/INFO]: [Yumalala: Made dieviche a server operator]
+[03:33:23] [Server thread/WARN]: Mismatch in destroy block pos: is{x=0, y=0, z=0} is{x=-9, y=113, z=-5}
+[03:33:30] [Server thread/INFO]: skupdiripop[/127.210.112.181:46925] logged in with entity id 731 at (2.8748719044500746, 111.0, 8.231932049671787)
+[03:33:30] [Server thread/INFO]: skupdiripop joined the game
+[03:34:09] [Server thread/INFO]: skupdiripop lost connection: Disconnected
+[03:34:09] [Server thread/INFO]: skupdiripop left the game
+[03:34:28] [Server thread/INFO]: Yumalala has made the advancement [Stone Age]
+[03:34:33] [Server thread/INFO]: dieviche has made the advancement [Stone Age]
+[03:34:50] [Server thread/INFO]: Yumalala has made the advancement [Getting an Upgrade]
+[03:35:10] [Server thread/INFO]: skupdiripop[/127.210.112.181:39863] logged in with entity id 1061 at (3.484345353960839, 107.0, 5.300000011920929)
+[03:35:10] [Server thread/INFO]: skupdiripop joined the game
+[03:35:25] [Server thread/INFO]: skupdiripop has made the advancement [Getting an Upgrade]
+[03:36:07] [Server thread/INFO]: skupdiripop lost connection: Disconnected
+[03:36:07] [Server thread/INFO]: skupdiripop left the game
+[03:36:28] [Server thread/INFO]: skupdiripop[/127.210.112.181:59161] logged in with entity id 1311 at (5.848296547931672, 112.0, -3.418434096036394)
+[03:36:28] [Server thread/INFO]: skupdiripop joined the game
+[03:37:00] [Server thread/INFO]: skupdiripop lost connection: Disconnected
+[03:37:00] [Server thread/INFO]: skupdiripop left the game
+[03:38:07] [Server thread/INFO]: dieviche has made the advancement [Getting an Upgrade]
+[03:39:22] [Server thread/INFO]: skupdiripop[/127.210.112.181:52091] logged in with entity id 2004 at (3.0595872861656983, 116.0, -13.420215293572253)
+[03:39:22] [Server thread/INFO]: skupdiripop joined the game
+[03:39:42] [Server thread/INFO]: skupdiripop has made the advancement [Stone Age]
+[03:40:40] [Server thread/INFO]: dieviche was slain by Zombie
+[03:41:06] [Server thread/INFO]: skupdiripop lost connection: Disconnected
+[03:41:06] [Server thread/INFO]: skupdiripop left the game
+[03:41:17] [Server thread/INFO]: dieviche was slain by Zombie
+[03:41:27] [Server thread/INFO]: dieviche fell from a high place
+[03:41:30] [Server thread/INFO]: dieviche lost connection: Disconnected
+[03:41:30] [Server thread/INFO]: dieviche left the game
+[03:41:43] [Server thread/INFO]: Yumalala lost connection: Disconnected
+[03:41:43] [Server thread/INFO]: Yumalala left the game

@@ -1,0 +1,78 @@
+{
+  "stats": {
+    "minecraft:killed": {
+      "minecraft:pig": 3
+    },
+    "minecraft:used": {
+      "minecraft:stone_axe": 24,
+      "minecraft:crafting_table": 3,
+      "minecraft:wooden_pickaxe": 11,
+      "minecraft:furnace": 4,
+      "minecraft:cooked_porkchop": 2,
+      "minecraft:torch": 2,
+      "minecraft:stone_pickaxe": 68
+    },
+    "minecraft:custom": {
+      "minecraft:interact_with_crafting_table": 7,
+      "minecraft:time_since_rest": 10210,
+      "minecraft:walk_one_cm": 32213,
+      "minecraft:leave_game": 1,
+      "minecraft:mob_kills": 3,
+      "minecraft:damage_taken": 126,
+      "minecraft:play_time": 10210,
+      "minecraft:damage_dealt": 318,
+      "minecraft:jump": 221,
+      "minecraft:time_since_death": 10210,
+      "minecraft:drop": 7,
+      "minecraft:interact_with_furnace": 11,
+      "minecraft:sprint_one_cm": 35361,
+      "minecraft:fall_one_cm": 6910,
+      "minecraft:total_world_time": 10210,
+      "minecraft:fly_one_cm": 31681,
+      "minecraft:crouch_one_cm": 39,
+      "minecraft:sneak_time": 6
+    },
+    "minecraft:mined": {
+      "minecraft:furnace": 3,
+      "minecraft:spruce_log": 23,
+      "minecraft:crafting_table": 3,
+      "minecraft:coal_ore": 8,
+      "minecraft:spruce_leaves": 7,
+      "minecraft:copper_ore": 1,
+      "minecraft:stone": 67
+    },
+    "minecraft:crafted": {
+      "minecraft:torch": 8,
+      "minecraft:furnace": 3,
+      "minecraft:stick": 8,
+      "minecraft:wooden_pickaxe": 1,
+      "minecraft:stone_axe": 1,
+      "minecraft:copper_helmet": 1,
+      "minecraft:copper_ingot": 5,
+      "minecraft:cooked_porkchop": 3,
+      "minecraft:spruce_planks": 28,
+      "minecraft:stone_pickaxe": 2,
+      "minecraft:air": 0,
+      "minecraft:crafting_table": 1
+    },
+    "minecraft:picked_up": {
+      "minecraft:spruce_planks": 11,
+      "minecraft:spruce_log": 23,
+      "minecraft:porkchop": 5,
+      "minecraft:coal": 8,
+      "minecraft:stone_pickaxe": 3,
+      "minecraft:spruce_sapling": 5,
+      "minecraft:stick": 2,
+      "minecraft:cobblestone": 67,
+      "minecraft:furnace": 3,
+      "minecraft:crafting_table": 3,
+      "minecraft:raw_copper": 5
+    },
+    "minecraft:dropped": {
+      "minecraft:porkchop": 2,
+      "minecraft:copper_helmet": 1,
+      "minecraft:stone_pickaxe": 4
+    }
+  },
+  "DataVersion": 4671
+}
